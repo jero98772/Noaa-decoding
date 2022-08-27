@@ -10,7 +10,13 @@ this repository uses the code of:
 
 that use hilbert transform
 
-### run
+### install 
+
+install runing in teminal
+
+	python setup.py install
+
+### execute
 	python main.py
 
 ### Screenshots
